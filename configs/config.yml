@@ -1,0 +1,10 @@
+server:
+  name: go-kafka-mongo
+  port: 9090
+
+mongo:
+  uri: "localhost:27017"
+  database: "mongo-server"
+  username: ""
+  password: ""
+  collection: "jobs"
